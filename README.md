@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Aaron Cayanan!
-- 👀 I’m interested in all things tech, AI, software development, and web development.
-- 🌱 I’m currently building cool projects over the summer, very excited to release them!
-- 📫 How to reach me: I am most active on LinkedIn. linkedin.com/in/aaroncayanan/
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am transfering from San Diego Mesa college to... San Diego State University!
+### hey, i'm aaron 👋
 
-<!---
-aacayanan/aacayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CS student at SDSU in my fourth year
+
+![Location](https://img.shields.io/badge/-San_Diego,_CA-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=aacayanan&style=flat-square&color=blueviolet&label=Profile+Views)
+
+[linkedin](https://linkedin.com/in/aaroncayanan/) · currently looking for my next internship
